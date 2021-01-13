@@ -9,4 +9,4 @@ Represents a "small" number of possible options available through this package.
 
 R code and dataset in csv format provided.
 
-https://zenodo.org/badge/doi/10.5281/zenodo.4437456.svg
+<img src="https://zenodo.org/badge/doi/10.5281/zenodo.4437456.svg"> 
